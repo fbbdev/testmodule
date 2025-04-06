@@ -1,0 +1,3 @@
+[submodule "subpkg"]
+	path = subpkg
+	url = https://github.com/fbbdev/subpkg.git
